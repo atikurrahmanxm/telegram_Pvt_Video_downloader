@@ -1,0 +1,17 @@
+# Credentials & Sensitive Files
+config.py
+*.session
+*.session-journal
+
+# Downloaded Media
+downloaded_videos/
+downloads/
+temp_test.mp4
+
+# Python Cache & Environments
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
